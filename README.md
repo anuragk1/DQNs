@@ -6,15 +6,16 @@ My implementations of some DQN algorithms
 * The algorithms take OpenAI gym envs as inputs
 
 ### Algorithms: 
- - [x] DQN [^1]
- - [x] DDQN [^2]
- - [x] Dueling DQN [^3]
- - [ ] PER DQN [^4]
- - [ ] Noisy DQN [^5]
+ - [x] DQN [^]
+ - [x] DDQN [^]
+ - [x] Dueling DQN [^]
+ - [ ] PER DQN [^]
+ - [ ] Noisy DQN [^]
 
 ### References:
-[^1]: [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
-[^2]: [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
-[^3]: [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
-[^4]: [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
-[^5]: [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295)
+ 1. [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+ 1. [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
+ 1. [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
+ 1. [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+ 1. [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295)
+
