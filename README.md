@@ -6,11 +6,11 @@ My implementations of some DQN algorithms
 * The algorithms take OpenAI gym envs as inputs
 
 ### Algorithms: 
- - [x] DQN[^1]
- - [x] DDQN[^2]
- - [x] Dueling DQN[^3]
- - [ ] PER DQN[^4]
- - [ ] Noisy DQN[^5]
+ - [x] DQN [^1]
+ - [x] DDQN [^2]
+ - [x] Dueling DQN [^3]
+ - [ ] PER DQN [^4]
+ - [ ] Noisy DQN [^5]
 
 ### References:
 [^1]: [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
